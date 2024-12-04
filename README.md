@@ -116,7 +116,7 @@ By the end of this learning phase, I aim to:
   - Gather feedback on the MVP.
   - Make necessary adjustments based on feedback received.
 
-### Week 4: Finalization and Presentation
+### Week 4: Finalisation and Presentation
 
 **Day 1: Final Project Development**
 - **Activities:**
