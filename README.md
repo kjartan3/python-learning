@@ -4,7 +4,7 @@
 This learning phase is designed to build upon the knowledge I have gained from learning JavaScript over the past 2 months. With a foundational understanding of programming concepts and principles, I aim to transition smoothly into Python programming. Through this learning plan, I will utilise online resources available through Sky Learn, my company's learning application, to establish a solid foundation in Python. Additionally, I plan to use **Django** as the web framework and **SQL** as the database for my projects. The goal is to leverage my existing knowledge of JavaScript to accelerate my learning process in Python, enabling me to apply these skills effectively in my apprenticeship.
 
 ## Learning Objectives
-By the end of this 2-week learning phase, I aim to:
+By the end of this learning phase, I aim to:
 - **Understand the basic syntax and structure of Python.**
 - **Be able to write simple Python programs.**
 - **Familiarise myself with key programming concepts** such as variables, data types, control structures, functions, and error handling.
