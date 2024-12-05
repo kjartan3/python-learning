@@ -61,7 +61,7 @@ def main():
         print(f'Department: {employee.department}')
         print(f'Salary: ${employee.salary:,.2f}')  # .2f for decimal point 
         print(f'Bonus: ${employee.bonus:,.2f} ({bonus_percentage:.2f}%)')
-        print(f'Vacation: {employee.vacation:,.2f} hours & {employee.vacation / 24:,.2f} days ({vacation_percentage:.2f}%)')
+        print(f'Vacation: {employee.vacation:,.2f} hours / {employee.vacation / 24:,.2f} days ({vacation_percentage:.2f}%)')
         print(f'Retirement Contribution: {employee.retirement_contribution:.2f}')
         print(f'Employer Contribution: {employee.employer_contribution:.2f}')
         print('--------------------')
