@@ -21,6 +21,10 @@ class Person:
     def greet(self):
         return f'Hello, my name is {self.name} and I am {self.age} years old. My nationality is {self.nationality}.'
     
+    # Create destructor method
+    def __del__(self):
+        print('{} {} : Destructor Invoked'.format(self.name, self.age))
+    
 def main():
     # person1 & person2 are objects
     person1 = Person()
@@ -43,6 +47,10 @@ def main():
     # Class attributes
     print(' Class attributes '.center(25, '-'))
     print('person1:', person1.name)
+
+    # Delete
+    print('Deleting Objects'.center(25, '-'))
+    del person1
     
 # this statement will be used to consume the class and make more objects
 if __name__ == '__main__':
